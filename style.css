@@ -4,24 +4,24 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.eisenhower-matrix-picture-and-inf {
+.eisenhower-matrix {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.eisenhower-matrix-picture-and-inf img {
+.eisenhower-matrix img {
   width: 100%;
 }
-.eisenhower-matrix-picture-and-inf .more-inf {
+.eisenhower-matrix .more-inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-.eisenhower-matrix-picture-and-inf { text-align: center;
+.eisenhower-matrix { text-align: center;
 }
 }
-.centered-main-page-element {
+.main {
   display: block;
   width: 500px;
   margin: 0 auto 0;
