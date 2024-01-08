@@ -41,13 +41,19 @@
   margin: 0;
   padding: 0px;
 }
-.list-item, heading {
+.list-item, 
+heading {
   list-style: none;
 }
-.task,.item-checkbox,.add,.delete,.edit{
+.task,
+.item-checkbox,
+.add,.delete,
+.edit {
   outline: none;
 }
-.add,.delete,.edit {
+.add,
+.delete,
+.edit {
   background: none;
   border: 0px;
   color: #888;
@@ -56,7 +62,9 @@
   font-family: Lato, sans-serif;
   cursor: pointer;
 }
-.add:hover,.delete:hover,.edit:hover {
+.add:hover,
+.delete:hover,
+.edit:hover {
     color: #3a3a3a;
 }
 /* Heading */
